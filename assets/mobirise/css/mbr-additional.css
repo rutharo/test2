@@ -1134,6 +1134,29 @@ a {
   padding-bottom: 0rem;
   background-color: #fafafa;
 }
+.cid-sbyHkHiXcz {
+  padding-top: 1rem;
+  padding-bottom: 0rem;
+  background-color: #fafafa;
+}
+.cid-sbyHkHiXcz .video-wrapper iframe {
+  width: 100%;
+}
+.cid-sbyHkHiXcz .mbr-section-title,
+.cid-sbyHkHiXcz .mbr-description {
+  text-align: center;
+}
+@media (min-width: 992px) {
+  .cid-sbyHkHiXcz .text-wrapper {
+    padding: 2rem;
+  }
+}
+.cid-sbyHkHiXcz .mbr-section-title {
+  text-align: right;
+}
+.cid-sbyHkHiXcz .mbr-text P {
+  text-align: left;
+}
 .cid-s94icn5uwg {
   padding-top: 1rem;
   padding-bottom: 0rem;
